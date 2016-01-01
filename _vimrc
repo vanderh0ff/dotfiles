@@ -29,7 +29,7 @@ set hlsearch
 set lazyredraw
 set showmatch
 set noerrorbells
-set vb t_vb=
+set vb t_vb= 
 set background=dark
 set showcmd             " Show (partial) command in status line.
 set showmatch           " Show matching brackets.
